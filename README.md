@@ -1,6 +1,6 @@
 # COMMAND LINE EMAIL SENDER (CLES)
 
-Effortlessly send an email  from your .LIVE or .GMAIL email account from the command line. It is possible to add an 
+Effortlessly send an email  from your outlook email account from the command line. It is possible to add an 
 image to your email from your desktop path.
 
 
