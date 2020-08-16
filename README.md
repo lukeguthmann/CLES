@@ -8,9 +8,6 @@ image to your email from your desktop path.
 
 CLES was made to effortlessly send emails without having to visit GMAIL or LIVE websites. This software is made to be simple, clean, fast,
 and easy to use with minimal dependencies.
-   
-## CLES directory tree
-<img src="/docs/CLES_directory_tree_update.png" width="500">
 
 ## Installation
 [1] - Download via git:
