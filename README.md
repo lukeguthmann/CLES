@@ -6,7 +6,7 @@ image to your email from your desktop path.
 
 ## Purpose of software
 
-CLES was made to effortlessly send emails without having to visit GMAIL or LIVE websites. This software is made to be simple, clean, fast,
+CLES was made to effortlessly send emails without having to leave the command line. This software is made to be simple, clean, fast,
 and easy to use with minimal dependencies.
 
 ## Installation
